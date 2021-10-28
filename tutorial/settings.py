@@ -29,7 +29,10 @@ SECRET_KEY = 'django-insecure-%mr-+xo@+e#^8dkrnpcq8exn360t%_u$zm&3^q_fvi$tc)xk&c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'kundoapp.herokuapp.com'
+    'localhost'
+]
 
 
 # Application definition
