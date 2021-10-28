@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-%mr-+xo@+e#^8dkrnpcq8exn360t%_u$zm&3^q_fvi$tc)xk&c
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'kundoapp.herokuapp.com'
+    'kundoapp.herokuapp.com',
     'localhost'
 ]
 
